@@ -9,7 +9,7 @@ I'm a Frontend Engineer & Product Designer, currently studying at the AltSchool 
 - 💡 I’m currently learning JavaScript & Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing alvin2k99@gmail.com.
+- 📫 You can [view my resume](https://docs.google.com/document/d/1ViuuLXmSiEutHe4qAPTDkzLh3ovlR6tzf0g7VWWfR_U/edit?usp=sharing) and contact me by emailing alvin2k99@gmail.com.
 
 ---
 
