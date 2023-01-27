@@ -1,59 +1,30 @@
-# Hi there 👋🏾
+<h1 align="center">Hi 👋, I'm Daniel Akpan</h1>
+<h3 align="center">A passionate fullstack developer from Nigeria</h3>
 
- [![Website Badge](https://img.shields.io/badge/-the-akpan.com-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://alvinokafor.com)](https://alvinokafor.com) [![Linkedin Badge](https://img.shields.io/badge/-@the-akpan-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akpan-daniel/)](https://www.linkedin.com/in/akpan-daniel/) [![Twitter Badge](https://img.shields.io/badge/-@the-akpan?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/the-akpan)](https://twitter.com/the-akpan)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=the-akpan&label=Profile%20views&color=0e75b6&style=flat" alt="the-akpan" /> </p>
 
-I'm Daniel, a fullstack engineer capable of designing and developing innovative backend solutions, interactive user experiences and solutions that that drive business growth and improve the daily lives of users
-**Here's a quick summary about me**:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-akpan" alt="the-akpan" /></a> </p>
 
-- 💡 I’m currently learning Golang and Vuejs.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Fullstack Engineer, Backend Engineer (Intern or Junior level).
-- 📫 You can contact me by emailing akpandaniel.n@gmail.com.
+<p align="left"> <a href="https://twitter.com/the_akpan" target="blank"><img src="https://img.shields.io/twitter/follow/the_akpan?logo=twitter&style=for-the-badge" alt="the_akpan" /></a> </p>
 
----
+- 🌱 I’m currently learning **Vuejs, MongoDB**
 
-## 🛠️ My Favorite Tools
+- 👯 I’m looking to collaborate on **personal and open source projects**
 
-### 👨‍💻 Programming Languages
+- 💬 Ask me about **Python, Django, Javascript**
 
-<p>
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
- ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+- 📫 How to reach me **akpandaniel.n@gmail.com**
 
-### 🧰 Frameworks and Libraries
+- ⚡ Fun fact **Debugging is fun**
 
-<p>
- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
- ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-</p>
-<p>
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
- ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-</p>
-<p>
- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/the_akpan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_akpan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akpan-daniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akpan-daniel" height="30" width="40" /></a>
 </p>
 
-### 🗄️ Databases and Cloud Hosting
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<p>
- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-akpan&show_icons=true&locale=en" alt="the-akpan" /></p>
 
-### 💻 Software and Tools
-
-<p>
- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-</p>
-</br>
-
-
-
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=the-akpan&show_icons=true&include_all_commits=true&hide_border=true" alt="Daniel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-akpan&langs_count=8&layout=compact&hide_border=true" alt="Daniel's GitHub stats" /> |
-| ------------- | ------------- |
